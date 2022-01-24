@@ -1,3 +1,5 @@
+<!-- Massage show and Connection provider -->
+
 <%@page import="project.ConnectionProvider"%>
 <%@page import="java.sql.*"%>
 <%@include file="adminHeader.jsp"%>
